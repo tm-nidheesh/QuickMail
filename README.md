@@ -22,7 +22,7 @@ This project automates the process of generating personalized job application re
 * Python: For scripting and automating the process.
 
 ## Workflow
-* Extract Text from Career Page:<br
+* Extract Text from Career Page:<br>
 The system extracts text from a job listing, pulling key details like required skills, years of experience, and role responsibilities.<br>
 The extracted job description is parsed into a JSON format. <br>
 
